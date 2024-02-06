@@ -3,4 +3,4 @@ a = float(input())
 if a - int(a) == 0.5:
     print(ceil(a))
 else:
-    print(round(a))
+    print(int(a))
