@@ -9,3 +9,4 @@ ans += 5 // n
 n %= 5 
 ans += n
 print(ans)
+
